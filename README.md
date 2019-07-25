@@ -8,4 +8,11 @@ The bulk of the game is written in JavaScript linked with the HTML file and CSS 
 -The Space button is used to shoot at the asteroids  
 -If all the asteroids are destroyed, the game moves up a level  
 -Each level adds two more starting asteroids to the game  
-## Here is the game starting
+## Screenshot of Game
+![](newgame.png)  
+-The current score and level is displayed in the top left  
+-Each asteroid/piece destroyed is 10 points  
+-The first level starts with 6 asteroids, which break into smaller pieces  
+-Each level increases the amount of starting asteroids by 2
+## Screenshot of End Screen
+![](endgame.png)
