@@ -1,0 +1,23 @@
+/* 
+Simple CSS Style Sheet for the Asteroids game
+David Schmeling
+*/
+
+body{
+	background: #000;
+}
+
+#container{
+	max-width: 1400px;
+	margin: auto;
+}
+
+#my-canvas{
+	height: 60%;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	background: #000;
+	border: 1px solid #FFF;
+}
