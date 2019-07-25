@@ -6,3 +6,6 @@ The bulk of the game is written in JavaScript linked with the HTML file and CSS 
 -The game starts when the webpage has loaded    
 -WASD or the Arrow Keys are used to move the spaceship around the screen  
 -The Space button is used to shoot at the asteroids  
+-If all the asteroids are destroyed, the game moves up a level  
+-Each level adds two more starting asteroids to the game  
+## Here is the game starting
